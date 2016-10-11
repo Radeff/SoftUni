@@ -1,0 +1,6 @@
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\Tashak\bin\Debug\Tashak.exe.config
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\Tashak\bin\Debug\Tashak.exe
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\Tashak\bin\Debug\Tashak.pdb
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\Tashak\obj\Debug\Tashak.csprojResolveAssemblyReference.cache
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\Tashak\obj\Debug\Tashak.exe
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\Tashak\obj\Debug\Tashak.pdb

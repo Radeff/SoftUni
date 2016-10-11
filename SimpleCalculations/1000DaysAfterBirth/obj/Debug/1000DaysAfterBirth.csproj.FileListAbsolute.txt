@@ -1,0 +1,6 @@
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe.config
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.exe
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\1000DaysAfterBirth\bin\Debug\1000DaysAfterBirth.pdb
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.exe
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.pdb
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\1000DaysAfterBirth\obj\Debug\1000DaysAfterBirth.csprojResolveAssemblyReference.cache

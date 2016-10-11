@@ -1,0 +1,5 @@
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\BGNtoUSD\bin\Debug\BGNtoUSD.exe.config
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\BGNtoUSD\bin\Debug\BGNtoUSD.exe
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\BGNtoUSD\bin\Debug\BGNtoUSD.pdb
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\BGNtoUSD\obj\Debug\BGNtoUSD.exe
+C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\BGNtoUSD\obj\Debug\BGNtoUSD.pdb

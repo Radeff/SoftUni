@@ -1,0 +1,5 @@
+c:\users\margarita\documents\visual studio 2015\Projects\FirstSteps\Expression\bin\Debug\Expression.exe.config
+c:\users\margarita\documents\visual studio 2015\Projects\FirstSteps\Expression\bin\Debug\Expression.exe
+c:\users\margarita\documents\visual studio 2015\Projects\FirstSteps\Expression\bin\Debug\Expression.pdb
+c:\users\margarita\documents\visual studio 2015\Projects\FirstSteps\Expression\obj\Debug\Expression.exe
+c:\users\margarita\documents\visual studio 2015\Projects\FirstSteps\Expression\obj\Debug\Expression.pdb

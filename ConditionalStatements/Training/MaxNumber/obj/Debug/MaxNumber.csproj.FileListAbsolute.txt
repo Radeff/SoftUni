@@ -1,0 +1,5 @@
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\MaxNumber\bin\Debug\MaxNumber.exe.config
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\MaxNumber\bin\Debug\MaxNumber.exe
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\MaxNumber\bin\Debug\MaxNumber.pdb
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\MaxNumber\obj\Debug\MaxNumber.exe
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\MaxNumber\obj\Debug\MaxNumber.pdb

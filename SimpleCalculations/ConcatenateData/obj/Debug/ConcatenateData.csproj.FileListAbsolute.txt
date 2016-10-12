@@ -1,0 +1,5 @@
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\ConcatenateData\bin\Debug\ConcatenateData.exe.config
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\ConcatenateData\bin\Debug\ConcatenateData.exe
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\ConcatenateData\bin\Debug\ConcatenateData.pdb
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\ConcatenateData\obj\Debug\ConcatenateData.exe
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\ConcatenateData\obj\Debug\ConcatenateData.pdb

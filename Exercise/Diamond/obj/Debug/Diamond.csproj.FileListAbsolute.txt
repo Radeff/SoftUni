@@ -1,0 +1,5 @@
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\Diamond\bin\Debug\Diamond.exe.config
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\Diamond\bin\Debug\Diamond.exe
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\Diamond\bin\Debug\Diamond.pdb
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\Diamond\obj\Debug\Diamond.exe
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\Diamond\obj\Debug\Diamond.pdb

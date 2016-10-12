@@ -1,0 +1,6 @@
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\Numbers1To100\bin\Debug\Numbers1To100.exe.config
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\Numbers1To100\bin\Debug\Numbers1To100.exe
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\Numbers1To100\bin\Debug\Numbers1To100.pdb
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\Numbers1To100\obj\Debug\Numbers1To100.csprojResolveAssemblyReference.cache
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\Numbers1To100\obj\Debug\Numbers1To100.exe
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\Numbers1To100\obj\Debug\Numbers1To100.pdb

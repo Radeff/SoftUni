@@ -1,0 +1,5 @@
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\CircleAreaPerimeter\bin\Debug\CircleAreaPerimeter.exe.config
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\CircleAreaPerimeter\bin\Debug\CircleAreaPerimeter.exe
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\CircleAreaPerimeter\bin\Debug\CircleAreaPerimeter.pdb
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\CircleAreaPerimeter\obj\Debug\CircleAreaPerimeter.exe
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\CircleAreaPerimeter\obj\Debug\CircleAreaPerimeter.pdb

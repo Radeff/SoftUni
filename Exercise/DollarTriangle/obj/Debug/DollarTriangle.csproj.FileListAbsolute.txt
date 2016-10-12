@@ -1,0 +1,5 @@
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\DollarTriangle\bin\Debug\DollarTriangle.exe.config
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\DollarTriangle\bin\Debug\DollarTriangle.exe
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\DollarTriangle\bin\Debug\DollarTriangle.pdb
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\DollarTriangle\obj\Debug\DollarTriangle.exe
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\DollarTriangle\obj\Debug\DollarTriangle.pdb

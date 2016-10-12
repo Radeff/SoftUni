@@ -1,0 +1,6 @@
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\Tree\bin\Debug\Tree.exe.config
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\Tree\bin\Debug\Tree.exe
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\Tree\bin\Debug\Tree.pdb
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\Tree\obj\Debug\Tree.exe
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\Tree\obj\Debug\Tree.pdb
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache

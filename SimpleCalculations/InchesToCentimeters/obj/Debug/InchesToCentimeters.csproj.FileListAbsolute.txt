@@ -1,0 +1,5 @@
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe.config
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\InchesToCentimeters\bin\Debug\InchesToCentimeters.pdb
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb

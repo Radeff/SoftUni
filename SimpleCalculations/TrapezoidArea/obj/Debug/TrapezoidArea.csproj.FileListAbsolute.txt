@@ -1,0 +1,6 @@
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\TrapezoidArea\obj\Debug\TrapezoidArea.csprojResolveAssemblyReference.cache
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

@@ -1,0 +1,5 @@
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\SquareFrame\bin\Debug\SquareFrame.exe.config
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\SquareFrame\bin\Debug\SquareFrame.exe
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\SquareFrame\bin\Debug\SquareFrame.pdb
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\SquareFrame\obj\Debug\SquareFrame.exe
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\SquareFrame\obj\Debug\SquareFrame.pdb

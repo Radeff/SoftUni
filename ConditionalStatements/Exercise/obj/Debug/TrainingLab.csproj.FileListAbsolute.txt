@@ -1,0 +1,3 @@
+c:\users\margarita\documents\visual studio 2015\Projects\ConditionalStatements\Exercise\bin\Debug\Exercise.exe.config
+c:\users\margarita\documents\visual studio 2015\Projects\ConditionalStatements\Exercise\obj\Debug\Exercise.exe
+c:\users\margarita\documents\visual studio 2015\Projects\ConditionalStatements\Exercise\obj\Debug\Exercise.pdb

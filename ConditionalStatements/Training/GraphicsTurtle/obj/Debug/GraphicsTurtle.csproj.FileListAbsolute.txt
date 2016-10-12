@@ -1,0 +1,10 @@
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\GraphicsTurtle\bin\Debug\GraphicsTurtle.exe.config
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\GraphicsTurtle\bin\Debug\GraphicsTurtle.exe
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\GraphicsTurtle\bin\Debug\GraphicsTurtle.pdb
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\GraphicsTurtle\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\GraphicsTurtle\obj\Debug\GraphicsTurtle.csprojResolveAssemblyReference.cache
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\GraphicsTurtle\obj\Debug\GraphicsTurtle.Form1.resources
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\GraphicsTurtle\obj\Debug\GraphicsTurtle.Properties.Resources.resources
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\GraphicsTurtle\obj\Debug\GraphicsTurtle.csproj.GenerateResource.Cache
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\GraphicsTurtle\obj\Debug\GraphicsTurtle.exe
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\GraphicsTurtle\obj\Debug\GraphicsTurtle.pdb

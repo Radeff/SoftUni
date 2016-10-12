@@ -1,0 +1,6 @@
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\SecondsToMinutes\bin\Debug\SecondsToMinutes.exe.config
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\SecondsToMinutes\bin\Debug\SecondsToMinutes.exe
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\SecondsToMinutes\bin\Debug\SecondsToMinutes.pdb
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\SecondsToMinutes\obj\Debug\SecondsToMinutes.csprojResolveAssemblyReference.cache
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\SecondsToMinutes\obj\Debug\SecondsToMinutes.exe
+C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\SecondsToMinutes\obj\Debug\SecondsToMinutes.pdb

@@ -1,0 +1,6 @@
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\SunGlasses\bin\Debug\SunGlasses.exe.config
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\SunGlasses\bin\Debug\SunGlasses.exe
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\SunGlasses\bin\Debug\SunGlasses.pdb
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\SunGlasses\obj\Debug\SunGlasses.csprojResolveAssemblyReference.cache
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\SunGlasses\obj\Debug\SunGlasses.exe
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\SunGlasses\obj\Debug\SunGlasses.pdb

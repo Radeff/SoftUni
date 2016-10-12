@@ -1,0 +1,6 @@
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\StarRectangle\bin\Debug\StarRectangle.exe.config
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\StarRectangle\bin\Debug\StarRectangle.exe
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\StarRectangle\bin\Debug\StarRectangle.pdb
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\StarRectangle\obj\Debug\StarRectangle.csprojResolveAssemblyReference.cache
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\StarRectangle\obj\Debug\StarRectangle.exe
+c:\users\margarita\documents\visual studio 2015\Projects\Exercise\StarRectangle\obj\Debug\StarRectangle.pdb

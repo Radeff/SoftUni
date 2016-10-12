@@ -1,0 +1,5 @@
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\RhombusOfStars\bin\Debug\RhombusOfStars.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\RhombusOfStars\bin\Debug\RhombusOfStars.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\RhombusOfStars\bin\Debug\RhombusOfStars.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\RhombusOfStars\obj\Debug\RhombusOfStars.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\RhombusOfStars\obj\Debug\RhombusOfStars.pdb

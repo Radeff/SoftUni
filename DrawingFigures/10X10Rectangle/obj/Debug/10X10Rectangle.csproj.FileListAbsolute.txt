@@ -1,0 +1,5 @@
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\10X10Rectangle\bin\Debug\10X10Rectangle.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\10X10Rectangle\bin\Debug\10X10Rectangle.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\10X10Rectangle\bin\Debug\10X10Rectangle.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\10X10Rectangle\obj\Debug\10X10Rectangle.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\10X10Rectangle\obj\Debug\10X10Rectangle.pdb

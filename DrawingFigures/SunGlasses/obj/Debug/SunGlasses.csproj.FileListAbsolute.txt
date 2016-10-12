@@ -1,0 +1,5 @@
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\SunGlasses\bin\Debug\SunGlasses.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\SunGlasses\bin\Debug\SunGlasses.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\SunGlasses\bin\Debug\SunGlasses.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\SunGlasses\obj\Debug\SunGlasses.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\SunGlasses\obj\Debug\SunGlasses.pdb

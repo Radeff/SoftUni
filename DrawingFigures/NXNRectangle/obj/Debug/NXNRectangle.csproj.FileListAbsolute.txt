@@ -1,0 +1,5 @@
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\NXNRectangle\bin\Debug\NXNRectangle.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\NXNRectangle\bin\Debug\NXNRectangle.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\NXNRectangle\bin\Debug\NXNRectangle.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\NXNRectangle\obj\Debug\NXNRectangle.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\NXNRectangle\obj\Debug\NXNRectangle.pdb

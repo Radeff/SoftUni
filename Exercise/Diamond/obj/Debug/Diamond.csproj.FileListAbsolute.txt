@@ -3,3 +3,9 @@ c:\users\margarita\documents\visual studio 2015\Projects\Exercise\Diamond\bin\De
 c:\users\margarita\documents\visual studio 2015\Projects\Exercise\Diamond\bin\Debug\Diamond.pdb
 c:\users\margarita\documents\visual studio 2015\Projects\Exercise\Diamond\obj\Debug\Diamond.exe
 c:\users\margarita\documents\visual studio 2015\Projects\Exercise\Diamond\obj\Debug\Diamond.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\Diamond\bin\Debug\Diamond.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\Diamond\obj\Debug\Diamond.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\Diamond\obj\Debug\Diamond.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\Diamond\bin\Debug\Diamond.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\Diamond\bin\Debug\Diamond.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache

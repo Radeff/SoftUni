@@ -4,3 +4,9 @@ c:\users\margarita\documents\visual studio 2015\Projects\Exercise\StarRectangle\
 c:\users\margarita\documents\visual studio 2015\Projects\Exercise\StarRectangle\obj\Debug\StarRectangle.csprojResolveAssemblyReference.cache
 c:\users\margarita\documents\visual studio 2015\Projects\Exercise\StarRectangle\obj\Debug\StarRectangle.exe
 c:\users\margarita\documents\visual studio 2015\Projects\Exercise\StarRectangle\obj\Debug\StarRectangle.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\StarRectangle\bin\Debug\StarRectangle.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\StarRectangle\obj\Debug\StarRectangle.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\StarRectangle\obj\Debug\StarRectangle.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\StarRectangle\obj\Debug\StarRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\StarRectangle\bin\Debug\StarRectangle.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\StarRectangle\bin\Debug\StarRectangle.pdb

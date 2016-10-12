@@ -3,3 +3,8 @@ c:\users\margarita\documents\visual studio 2015\Projects\Exercise\House\bin\Debu
 c:\users\margarita\documents\visual studio 2015\Projects\Exercise\House\bin\Debug\House.pdb
 c:\users\margarita\documents\visual studio 2015\Projects\Exercise\House\obj\Debug\House.exe
 c:\users\margarita\documents\visual studio 2015\Projects\Exercise\House\obj\Debug\House.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\House\bin\Debug\House.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\House\obj\Debug\House.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\House\obj\Debug\House.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\House\bin\Debug\House.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\House\bin\Debug\House.pdb

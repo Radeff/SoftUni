@@ -1,0 +1,5 @@
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\House\bin\Debug\House.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\House\bin\Debug\House.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\House\bin\Debug\House.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\House\obj\Debug\House.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\House\obj\Debug\House.pdb

@@ -15,11 +15,23 @@ namespace SquareFrame
             {
                 if (row == 1 || row == n)
                 {
-                    Console.WriteLine('+' + new string('-', n) + '+');
+                    Console.Write("+ ");
+                    for (int i = 0; i < n-2; i++)
+                    {
+                        Console.Write("- ");
+                    }
+                    Console.Write('+');
+                    Console.WriteLine();
                 }
                 else
                 {
-                    Console.WriteLine('|' + new string('-', n) + '|');
+                    Console.Write("| ");
+                    for (int i = 0; i < n - 2; i++)
+                    {
+                        Console.Write("- ");
+                    }
+                    Console.Write('|');
+                    Console.WriteLine();
                 }
             }
         }

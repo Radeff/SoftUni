@@ -19,9 +19,9 @@ namespace House
             var leftRightBlanks = (n - stars) / 2;
             for (int row = 1; row <= (n+1)/2; row++)
             {
-                Console.Write(new string('_', leftRightBlanks));
+                Console.Write(new string('-', leftRightBlanks));
                 Console.Write(new string('*', stars));
-                Console.Write(new string('_', leftRightBlanks));
+                Console.Write(new string('-', leftRightBlanks));
                 leftRightBlanks--;
                 stars+=2;
                 Console.WriteLine();

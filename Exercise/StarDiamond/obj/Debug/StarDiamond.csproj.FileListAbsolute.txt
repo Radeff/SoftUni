@@ -4,3 +4,9 @@ c:\users\margarita\documents\visual studio 2015\Projects\Exercise\StarDiamond\bi
 c:\users\margarita\documents\visual studio 2015\Projects\Exercise\StarDiamond\obj\Debug\StarDiamond.exe
 c:\users\margarita\documents\visual studio 2015\Projects\Exercise\StarDiamond\obj\Debug\StarDiamond.pdb
 C:\Users\Margarita\documents\visual studio 2015\Projects\Exercise\StarDiamond\obj\Debug\StarDiamond.csprojResolveAssemblyReference.cache
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\StarDiamond\bin\Debug\StarDiamond.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\StarDiamond\obj\Debug\StarDiamond.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\StarDiamond\obj\Debug\StarDiamond.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\StarDiamond\bin\Debug\StarDiamond.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\StarDiamond\bin\Debug\StarDiamond.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\StarDiamond\obj\Debug\StarDiamond.csprojResolveAssemblyReference.cache

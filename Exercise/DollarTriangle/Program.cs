@@ -15,7 +15,7 @@ namespace DollarTriangle
             {
                 for (int q = 1; q <= i; q++)
                 {
-                    Console.Write('$');
+                    Console.Write("$ ");
                 }
                 Console.WriteLine();
             }

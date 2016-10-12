@@ -4,3 +4,9 @@ c:\users\margarita\documents\visual studio 2015\Projects\Exercise\SunGlasses\bin
 c:\users\margarita\documents\visual studio 2015\Projects\Exercise\SunGlasses\obj\Debug\SunGlasses.csprojResolveAssemblyReference.cache
 c:\users\margarita\documents\visual studio 2015\Projects\Exercise\SunGlasses\obj\Debug\SunGlasses.exe
 c:\users\margarita\documents\visual studio 2015\Projects\Exercise\SunGlasses\obj\Debug\SunGlasses.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\SunGlasses\bin\Debug\SunGlasses.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\SunGlasses\obj\Debug\SunGlasses.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\SunGlasses\obj\Debug\SunGlasses.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\SunGlasses\bin\Debug\SunGlasses.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\SunGlasses\bin\Debug\SunGlasses.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\SunGlasses\obj\Debug\SunGlasses.csprojResolveAssemblyReference.cache

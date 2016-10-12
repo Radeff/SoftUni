@@ -4,3 +4,9 @@ C:\Users\Margarita\Documents\Visual Studio 2015\Projects\Exercise\SpecialNumbers
 C:\Users\Margarita\Documents\Visual Studio 2015\Projects\Exercise\SpecialNumbers\obj\Debug\SpecialNumbers.csprojResolveAssemblyReference.cache
 C:\Users\Margarita\Documents\Visual Studio 2015\Projects\Exercise\SpecialNumbers\obj\Debug\SpecialNumbers.exe
 C:\Users\Margarita\Documents\Visual Studio 2015\Projects\Exercise\SpecialNumbers\obj\Debug\SpecialNumbers.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\SpecialNumbers\obj\Debug\SpecialNumbers.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\SpecialNumbers\obj\Debug\SpecialNumbers.csprojResolveAssemblyReference.cache

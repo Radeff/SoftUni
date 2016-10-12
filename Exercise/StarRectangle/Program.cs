@@ -15,7 +15,7 @@ namespace StarRectangle
             {
                 for (int q = 0; q < n; q++)
                 {
-                    Console.Write('*');
+                    Console.Write("* ");
                 }
                 Console.WriteLine();
             }

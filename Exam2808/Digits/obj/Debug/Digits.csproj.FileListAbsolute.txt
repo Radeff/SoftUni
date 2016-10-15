@@ -1,0 +1,6 @@
+C:\Users\Margarita\Desktop\Github\Exam2808\Digits\bin\Debug\Digits.exe.config
+C:\Users\Margarita\Desktop\Github\Exam2808\Digits\bin\Debug\Digits.exe
+C:\Users\Margarita\Desktop\Github\Exam2808\Digits\bin\Debug\Digits.pdb
+C:\Users\Margarita\Desktop\Github\Exam2808\Digits\obj\Debug\Digits.csprojResolveAssemblyReference.cache
+C:\Users\Margarita\Desktop\Github\Exam2808\Digits\obj\Debug\Digits.exe
+C:\Users\Margarita\Desktop\Github\Exam2808\Digits\obj\Debug\Digits.pdb

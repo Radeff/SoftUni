@@ -1,0 +1,5 @@
+C:\Users\Margarita\Desktop\Github\Exam2808\Firm\bin\Debug\Firm.exe.config
+C:\Users\Margarita\Desktop\Github\Exam2808\Firm\bin\Debug\Firm.exe
+C:\Users\Margarita\Desktop\Github\Exam2808\Firm\bin\Debug\Firm.pdb
+C:\Users\Margarita\Desktop\Github\Exam2808\Firm\obj\Debug\Firm.exe
+C:\Users\Margarita\Desktop\Github\Exam2808\Firm\obj\Debug\Firm.pdb

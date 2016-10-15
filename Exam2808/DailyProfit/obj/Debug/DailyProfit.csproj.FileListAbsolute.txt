@@ -1,1 +1,7 @@
 c:\users\margarita\documents\visual studio 2015\Projects\Exam2808\DailyProfit\bin\Debug\DailyProfit.exe.config
+C:\Users\Margarita\Desktop\Github\Exam2808\DailyProfit\bin\Debug\DailyProfit.exe.config
+C:\Users\Margarita\Desktop\Github\Exam2808\DailyProfit\bin\Debug\DailyProfit.exe
+C:\Users\Margarita\Desktop\Github\Exam2808\DailyProfit\bin\Debug\DailyProfit.pdb
+C:\Users\Margarita\Desktop\Github\Exam2808\DailyProfit\obj\Debug\DailyProfit.csprojResolveAssemblyReference.cache
+C:\Users\Margarita\Desktop\Github\Exam2808\DailyProfit\obj\Debug\DailyProfit.exe
+C:\Users\Margarita\Desktop\Github\Exam2808\DailyProfit\obj\Debug\DailyProfit.pdb

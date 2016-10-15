@@ -1,0 +1,6 @@
+C:\Users\Margarita\Desktop\Github\Exam2808\Axe\bin\Debug\Axe.exe.config
+C:\Users\Margarita\Desktop\Github\Exam2808\Axe\bin\Debug\Axe.exe
+C:\Users\Margarita\Desktop\Github\Exam2808\Axe\bin\Debug\Axe.pdb
+C:\Users\Margarita\Desktop\Github\Exam2808\Axe\obj\Debug\Axe.csprojResolveAssemblyReference.cache
+C:\Users\Margarita\Desktop\Github\Exam2808\Axe\obj\Debug\Axe.exe
+C:\Users\Margarita\Desktop\Github\Exam2808\Axe\obj\Debug\Axe.pdb

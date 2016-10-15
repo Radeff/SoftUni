@@ -10,3 +10,6 @@ C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\StarRectangle\obj\Debug\StarRe
 C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\StarRectangle\obj\Debug\StarRectangle.csprojResolveAssemblyReference.cache
 C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\StarRectangle\bin\Debug\StarRectangle.exe
 C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\StarRectangle\bin\Debug\StarRectangle.pdb
+C:\Users\Margarita\Desktop\Github\Exercise\StarRectangle\bin\Debug\StarRectangle.exe.config
+C:\Users\Margarita\Desktop\Github\Exercise\StarRectangle\obj\Debug\StarRectangle.exe
+C:\Users\Margarita\Desktop\Github\Exercise\StarRectangle\obj\Debug\StarRectangle.pdb

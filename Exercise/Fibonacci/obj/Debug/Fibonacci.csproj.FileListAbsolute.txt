@@ -1,0 +1,6 @@
+C:\Users\Margarita\Desktop\Github\Exercise\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\Margarita\Desktop\Github\Exercise\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\Margarita\Desktop\Github\Exercise\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\Margarita\Desktop\Github\Exercise\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\Margarita\Desktop\Github\Exercise\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\Margarita\Desktop\Github\Exercise\Fibonacci\obj\Debug\Fibonacci.pdb

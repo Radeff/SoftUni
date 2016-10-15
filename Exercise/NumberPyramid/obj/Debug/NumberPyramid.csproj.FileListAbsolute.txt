@@ -1,0 +1,5 @@
+C:\Users\Margarita\Desktop\Github\Exercise\NumberPyramid\bin\Debug\NumberPyramid.exe.config
+C:\Users\Margarita\Desktop\Github\Exercise\NumberPyramid\bin\Debug\NumberPyramid.exe
+C:\Users\Margarita\Desktop\Github\Exercise\NumberPyramid\bin\Debug\NumberPyramid.pdb
+C:\Users\Margarita\Desktop\Github\Exercise\NumberPyramid\obj\Debug\NumberPyramid.exe
+C:\Users\Margarita\Desktop\Github\Exercise\NumberPyramid\obj\Debug\NumberPyramid.pdb

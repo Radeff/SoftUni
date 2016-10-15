@@ -1,0 +1,6 @@
+C:\Users\Margarita\Desktop\Github\Exercise\GCD\bin\Debug\GCD.exe.config
+C:\Users\Margarita\Desktop\Github\Exercise\GCD\bin\Debug\GCD.exe
+C:\Users\Margarita\Desktop\Github\Exercise\GCD\bin\Debug\GCD.pdb
+C:\Users\Margarita\Desktop\Github\Exercise\GCD\obj\Debug\GCD.csprojResolveAssemblyReference.cache
+C:\Users\Margarita\Desktop\Github\Exercise\GCD\obj\Debug\GCD.exe
+C:\Users\Margarita\Desktop\Github\Exercise\GCD\obj\Debug\GCD.pdb

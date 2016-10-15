@@ -1,0 +1,6 @@
+C:\Users\Margarita\Desktop\Github\Exercise\SumDigits\bin\Debug\SumDigits.exe.config
+C:\Users\Margarita\Desktop\Github\Exercise\SumDigits\bin\Debug\SumDigits.exe
+C:\Users\Margarita\Desktop\Github\Exercise\SumDigits\bin\Debug\SumDigits.pdb
+C:\Users\Margarita\Desktop\Github\Exercise\SumDigits\obj\Debug\SumDigits.csprojResolveAssemblyReference.cache
+C:\Users\Margarita\Desktop\Github\Exercise\SumDigits\obj\Debug\SumDigits.exe
+C:\Users\Margarita\Desktop\Github\Exercise\SumDigits\obj\Debug\SumDigits.pdb

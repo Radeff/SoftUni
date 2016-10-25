@@ -7,6 +7,6 @@
 .cache
 *.exe
 TemporaryGeneratedFile*.*
-/bin/
-/Debug/
+bin/
+Debug/
 *.cache

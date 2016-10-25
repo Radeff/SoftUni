@@ -5,3 +5,8 @@
 /ComplexConditions/
 .exe
 .cache
+*.exe
+TemporaryGeneratedFile*.*
+bin/
+Debug/
+*.cache

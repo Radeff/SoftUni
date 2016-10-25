@@ -1,0 +1,6 @@
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\CheckPrime\bin\Debug\CheckPrime.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\CheckPrime\bin\Debug\CheckPrime.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\CheckPrime\bin\Debug\CheckPrime.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\CheckPrime\obj\Debug\CheckPrime.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\CheckPrime\obj\Debug\CheckPrime.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\CheckPrime\obj\Debug\CheckPrime.csprojResolveAssemblyReference.cache

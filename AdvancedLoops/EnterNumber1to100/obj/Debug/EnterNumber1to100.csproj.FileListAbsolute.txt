@@ -1,0 +1,6 @@
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\EnterNumber1to100\bin\Debug\EnterNumber1to100.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\EnterNumber1to100\bin\Debug\EnterNumber1to100.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\EnterNumber1to100\bin\Debug\EnterNumber1to100.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\EnterNumber1to100\obj\Debug\EnterNumber1to100.csprojResolveAssemblyReference.cache
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\EnterNumber1to100\obj\Debug\EnterNumber1to100.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\EnterNumber1to100\obj\Debug\EnterNumber1to100.pdb

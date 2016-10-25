@@ -4,3 +4,9 @@ C:\Users\Margarita\Desktop\Github\Exercise\Fibonacci\bin\Debug\Fibonacci.pdb
 C:\Users\Margarita\Desktop\Github\Exercise\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
 C:\Users\Margarita\Desktop\Github\Exercise\Fibonacci\obj\Debug\Fibonacci.exe
 C:\Users\Margarita\Desktop\Github\Exercise\Fibonacci\obj\Debug\Fibonacci.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\Fibonacci\obj\Debug\Fibonacci.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache

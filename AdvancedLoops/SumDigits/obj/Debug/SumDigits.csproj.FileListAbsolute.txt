@@ -1,0 +1,5 @@
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\SumDigits\bin\Debug\SumDigits.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\SumDigits\bin\Debug\SumDigits.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\SumDigits\bin\Debug\SumDigits.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\SumDigits\obj\Debug\SumDigits.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\SumDigits\obj\Debug\SumDigits.pdb

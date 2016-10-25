@@ -4,3 +4,9 @@ C:\Users\Margarita\Desktop\Github\Exercise\GCD\bin\Debug\GCD.pdb
 C:\Users\Margarita\Desktop\Github\Exercise\GCD\obj\Debug\GCD.csprojResolveAssemblyReference.cache
 C:\Users\Margarita\Desktop\Github\Exercise\GCD\obj\Debug\GCD.exe
 C:\Users\Margarita\Desktop\Github\Exercise\GCD\obj\Debug\GCD.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\GCD\bin\Debug\GCD.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\GCD\obj\Debug\GCD.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\GCD\obj\Debug\GCD.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\GCD\bin\Debug\GCD.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\GCD\bin\Debug\GCD.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\GCD\obj\Debug\GCD.csprojResolveAssemblyReference.cache

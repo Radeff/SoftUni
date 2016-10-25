@@ -1,0 +1,5 @@
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\GCD\bin\Debug\GCD.exe.config
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\GCD\bin\Debug\GCD.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\GCD\bin\Debug\GCD.pdb
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\GCD\obj\Debug\GCD.exe
+C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\GCD\obj\Debug\GCD.pdb

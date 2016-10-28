@@ -11,3 +11,9 @@ bin/
 Debug/
 *.cache
 *.suo
+*.csproj
+*.config
+assembly*.*
+*.resx
+/ConditionalStatements/Training/GraphicsTurtle/Properties
+/FirstSteps/AsteriskSquare/obj/Release/AsteriskSquare.csproj.FileListAbsolute.txt

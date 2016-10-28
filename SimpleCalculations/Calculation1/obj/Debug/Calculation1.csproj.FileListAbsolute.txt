@@ -1,6 +1,0 @@
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\Calculation1\bin\Debug\Calculation1.exe.config
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\Calculation1\bin\Debug\Calculation1.exe
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\Calculation1\bin\Debug\Calculation1.pdb
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\Calculation1\obj\Debug\Calculation1.csprojResolveAssemblyReference.cache
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\Calculation1\obj\Debug\Calculation1.exe
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\Calculation1\obj\Debug\Calculation1.pdb

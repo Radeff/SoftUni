@@ -10,3 +10,4 @@ TemporaryGeneratedFile*.*
 bin/
 Debug/
 *.cache
+*.suo

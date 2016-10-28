@@ -1,5 +1,0 @@
-C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe.config
-C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\TriangleOfDollars\bin\Debug\TriangleOfDollars.pdb
-C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\TriangleOfDollars\obj\Debug\TriangleOfDollars.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\TriangleOfDollars\obj\Debug\TriangleOfDollars.pdb

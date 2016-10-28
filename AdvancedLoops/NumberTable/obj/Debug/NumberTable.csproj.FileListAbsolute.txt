@@ -1,6 +1,0 @@
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\NumberTable\bin\Debug\NumberTable.exe.config
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\NumberTable\bin\Debug\NumberTable.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\NumberTable\bin\Debug\NumberTable.pdb
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\NumberTable\obj\Debug\NumberTable.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\NumberTable\obj\Debug\NumberTable.pdb
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\NumberTable\obj\Debug\NumberTable.csprojResolveAssemblyReference.cache

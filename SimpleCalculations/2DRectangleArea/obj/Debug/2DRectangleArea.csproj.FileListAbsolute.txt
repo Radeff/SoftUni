@@ -1,6 +1,0 @@
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\2DRectangleArea\bin\Debug\2DRectangleArea.exe.config
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\2DRectangleArea\obj\Debug\2DRectangleArea.csprojResolveAssemblyReference.cache
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\2DRectangleArea\bin\Debug\2DRectangleArea.exe
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\2DRectangleArea\bin\Debug\2DRectangleArea.pdb
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\2DRectangleArea\obj\Debug\2DRectangleArea.exe
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\2DRectangleArea\obj\Debug\2DRectangleArea.pdb

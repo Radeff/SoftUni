@@ -1,1 +1,0 @@
-c:\users\margarita\documents\visual studio 2015\Projects\ConditionalStatements\Training\bin\Debug\Training.exe.config

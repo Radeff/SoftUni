@@ -1,6 +1,0 @@
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\PoolPipes\bin\Debug\PoolPipes.exe.config
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\PoolPipes\obj\Debug\PoolPipes.csprojResolveAssemblyReference.cache
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\PoolPipes\bin\Debug\PoolPipes.exe
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\PoolPipes\bin\Debug\PoolPipes.pdb
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\PoolPipes\obj\Debug\PoolPipes.exe
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\PoolPipes\obj\Debug\PoolPipes.pdb

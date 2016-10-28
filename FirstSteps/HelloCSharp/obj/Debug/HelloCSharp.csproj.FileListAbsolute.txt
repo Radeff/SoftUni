@@ -1,6 +1,0 @@
-c:\users\margarita\documents\visual studio 2015\Projects\FirstSteps\HelloCSharp\bin\Debug\HelloCSharp.exe.config
-c:\users\margarita\documents\visual studio 2015\Projects\FirstSteps\HelloCSharp\bin\Debug\HelloCSharp.exe
-c:\users\margarita\documents\visual studio 2015\Projects\FirstSteps\HelloCSharp\bin\Debug\HelloCSharp.pdb
-c:\users\margarita\documents\visual studio 2015\Projects\FirstSteps\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
-c:\users\margarita\documents\visual studio 2015\Projects\FirstSteps\HelloCSharp\obj\Debug\HelloCSharp.exe
-c:\users\margarita\documents\visual studio 2015\Projects\FirstSteps\HelloCSharp\obj\Debug\HelloCSharp.pdb

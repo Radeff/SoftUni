@@ -1,6 +1,0 @@
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\FirstSteps\AsteriskSquare\bin\Debug\AsteriskSquare.exe.config
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\FirstSteps\AsteriskSquare\bin\Debug\AsteriskSquare.exe
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\FirstSteps\AsteriskSquare\bin\Debug\AsteriskSquare.pdb
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\FirstSteps\AsteriskSquare\obj\Debug\AsteriskSquare.csprojResolveAssemblyReference.cache
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\FirstSteps\AsteriskSquare\obj\Debug\AsteriskSquare.exe
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\FirstSteps\AsteriskSquare\obj\Debug\AsteriskSquare.pdb

@@ -1,8 +1,0 @@
-C:\Users\Margarita\Desktop\Github\Exercise\Factoriel\bin\Debug\Factoriel.exe.config
-C:\Users\Margarita\Desktop\Github\Exercise\Factoriel\bin\Debug\Factoriel.exe
-C:\Users\Margarita\Desktop\Github\Exercise\Factoriel\bin\Debug\Factoriel.pdb
-C:\Users\Margarita\Desktop\Github\Exercise\Factoriel\obj\Debug\Factoriel.exe
-C:\Users\Margarita\Desktop\Github\Exercise\Factoriel\obj\Debug\Factoriel.pdb
-C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\Factoriel\bin\Debug\Factoriel.exe.config
-C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\Factoriel\obj\Debug\Factoriel.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\Exercise\Factoriel\obj\Debug\Factoriel.pdb

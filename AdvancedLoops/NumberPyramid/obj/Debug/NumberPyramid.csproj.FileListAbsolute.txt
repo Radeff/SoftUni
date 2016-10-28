@@ -1,5 +1,0 @@
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\NumberPyramid\bin\Debug\NumberPyramid.exe.config
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\NumberPyramid\bin\Debug\NumberPyramid.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\NumberPyramid\bin\Debug\NumberPyramid.pdb
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\NumberPyramid\obj\Debug\NumberPyramid.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\NumberPyramid\obj\Debug\NumberPyramid.pdb

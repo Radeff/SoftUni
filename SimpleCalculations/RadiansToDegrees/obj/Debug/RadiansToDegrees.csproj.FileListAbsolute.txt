@@ -1,5 +1,0 @@
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe.config
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\RadiansToDegrees\bin\Debug\RadiansToDegrees.pdb
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\RadiansToDegrees\obj\Debug\RadiansToDegrees.exe
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\RadiansToDegrees\obj\Debug\RadiansToDegrees.pdb

@@ -1,6 +1,0 @@
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.exe.config
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.exe
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\GreaterNumber\bin\Debug\GreaterNumber.pdb
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\GreaterNumber\obj\Debug\GreaterNumber.csprojResolveAssemblyReference.cache
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\GreaterNumber\obj\Debug\GreaterNumber.exe
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\GreaterNumber\obj\Debug\GreaterNumber.pdb

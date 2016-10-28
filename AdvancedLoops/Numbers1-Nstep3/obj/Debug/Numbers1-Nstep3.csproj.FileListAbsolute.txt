@@ -1,5 +1,0 @@
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\Numbers1-Nstep3\bin\Debug\Numbers1-Nstep3.exe.config
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\Numbers1-Nstep3\bin\Debug\Numbers1-Nstep3.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\Numbers1-Nstep3\bin\Debug\Numbers1-Nstep3.pdb
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\Numbers1-Nstep3\obj\Debug\Numbers1-Nstep3.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\Numbers1-Nstep3\obj\Debug\Numbers1-Nstep3.pdb

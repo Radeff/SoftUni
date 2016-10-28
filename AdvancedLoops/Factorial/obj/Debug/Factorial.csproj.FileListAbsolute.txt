@@ -1,5 +1,0 @@
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\Factorial\bin\Debug\Factorial.exe.config
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\Factorial\bin\Debug\Factorial.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\Factorial\bin\Debug\Factorial.pdb
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\Factorial\obj\Debug\Factorial.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\Factorial\obj\Debug\Factorial.pdb

@@ -1,6 +1,0 @@
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\EvenPowersOf2\bin\Debug\EvenPowersOf2.exe.config
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\EvenPowersOf2\bin\Debug\EvenPowersOf2.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\EvenPowersOf2\bin\Debug\EvenPowersOf2.pdb
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\EvenPowersOf2\obj\Debug\EvenPowersOf2.csprojResolveAssemblyReference.cache
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\EvenPowersOf2\obj\Debug\EvenPowersOf2.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\EvenPowersOf2\obj\Debug\EvenPowersOf2.pdb

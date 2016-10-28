@@ -1,6 +1,0 @@
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\number1to100\bin\Debug\number1to100.exe.config
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\number1to100\bin\Debug\number1to100.exe
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\number1to100\bin\Debug\number1to100.pdb
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\number1to100\obj\Debug\number1to100.csprojResolveAssemblyReference.cache
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\number1to100\obj\Debug\number1to100.exe
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\number1to100\obj\Debug\number1to100.pdb

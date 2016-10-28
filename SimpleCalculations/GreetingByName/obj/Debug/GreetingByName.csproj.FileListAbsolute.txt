@@ -1,6 +1,0 @@
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\GreetingByName\bin\Debug\GreetingByName.exe.config
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\GreetingByName\bin\Debug\GreetingByName.exe
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\GreetingByName\bin\Debug\GreetingByName.pdb
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\GreetingByName\obj\Debug\GreetingByName.csprojResolveAssemblyReference.cache
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\GreetingByName\obj\Debug\GreetingByName.exe
-c:\users\margarita\documents\visual studio 2015\Projects\SimpleCalculations\GreetingByName\obj\Debug\GreetingByName.pdb

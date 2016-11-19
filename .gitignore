@@ -1,8 +1,12 @@
-﻿﻿################################################################################
+﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-*.suo
-*.*
-!program.cs
 /ComplexConditions/
+.exe
+.cache
+*.exe
+TemporaryGeneratedFile*.*
+bin/
+Debug/
+*.cache

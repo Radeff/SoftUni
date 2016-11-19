@@ -1,5 +1,0 @@
-C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\ChristmasTree\bin\Debug\ChristmasTree.exe.config
-C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\ChristmasTree\bin\Debug\ChristmasTree.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\ChristmasTree\bin\Debug\ChristmasTree.pdb
-C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\ChristmasTree\obj\Debug\ChristmasTree.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\ChristmasTree\obj\Debug\ChristmasTree.pdb

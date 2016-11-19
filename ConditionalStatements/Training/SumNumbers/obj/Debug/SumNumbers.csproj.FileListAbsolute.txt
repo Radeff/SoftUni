@@ -1,5 +1,0 @@
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\SumNumbers\bin\Debug\SumNumbers.exe.config
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\SumNumbers\bin\Debug\SumNumbers.exe
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\SumNumbers\bin\Debug\SumNumbers.pdb
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\SumNumbers\obj\Debug\SumNumbers.exe
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\SumNumbers\obj\Debug\SumNumbers.pdb

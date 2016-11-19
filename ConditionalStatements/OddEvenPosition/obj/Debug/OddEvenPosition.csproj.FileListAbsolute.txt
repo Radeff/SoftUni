@@ -1,5 +1,0 @@
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\OddEvenPosition\bin\Debug\OddEvenPosition.exe.config
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\OddEvenPosition\bin\Debug\OddEvenPosition.exe
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\OddEvenPosition\bin\Debug\OddEvenPosition.pdb
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\OddEvenPosition\obj\Debug\OddEvenPosition.exe
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\OddEvenPosition\obj\Debug\OddEvenPosition.pdb

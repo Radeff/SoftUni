@@ -1,5 +1,0 @@
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\LatinLetters\bin\Debug\LatinLetters.exe.config
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\LatinLetters\bin\Debug\LatinLetters.exe
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\LatinLetters\bin\Debug\LatinLetters.pdb
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\LatinLetters\obj\Debug\LatinLetters.exe
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\ConditionalStatements\Training\LatinLetters\obj\Debug\LatinLetters.pdb

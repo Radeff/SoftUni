@@ -1,5 +1,0 @@
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\Sequence2k1\bin\Debug\Sequence2k1.exe.config
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\Sequence2k1\bin\Debug\Sequence2k1.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\Sequence2k1\bin\Debug\Sequence2k1.pdb
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\Sequence2k1\obj\Debug\Sequence2k1.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\Sequence2k1\obj\Debug\Sequence2k1.pdb

@@ -1,5 +1,0 @@
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\EqualNumbers\bin\Debug\EqualNumbers.exe.config
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\EqualNumbers\bin\Debug\EqualNumbers.exe
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\EqualNumbers\bin\Debug\EqualNumbers.pdb
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\EqualNumbers\obj\Debug\EqualNumbers.exe
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\EqualNumbers\obj\Debug\EqualNumbers.pdb

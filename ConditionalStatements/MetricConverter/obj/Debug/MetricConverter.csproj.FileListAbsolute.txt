@@ -1,5 +1,0 @@
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\MetricConverter\bin\Debug\MetricConverter.exe.config
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\MetricConverter\bin\Debug\MetricConverter.exe
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\MetricConverter\bin\Debug\MetricConverter.pdb
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\MetricConverter\obj\Debug\MetricConverter.exe
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\ConditionalStatements\MetricConverter\obj\Debug\MetricConverter.pdb

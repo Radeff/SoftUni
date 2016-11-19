@@ -1,6 +1,0 @@
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\Exercise\OddEvenPosition\bin\Debug\OddEvenPosition.exe.config
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\Exercise\OddEvenPosition\obj\Debug\OddEvenPosition.csprojResolveAssemblyReference.cache
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\Exercise\OddEvenPosition\bin\Debug\OddEvenPosition.exe
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\Exercise\OddEvenPosition\bin\Debug\OddEvenPosition.pdb
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\Exercise\OddEvenPosition\obj\Debug\OddEvenPosition.exe
-C:\Users\Margarita\Documents\Visual Studio 2015\Projects\Exercise\OddEvenPosition\obj\Debug\OddEvenPosition.pdb

@@ -1,5 +1,0 @@
-C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\SquareFrame\bin\Debug\SquareFrame.exe.config
-C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\SquareFrame\bin\Debug\SquareFrame.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\SquareFrame\bin\Debug\SquareFrame.pdb
-C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\SquareFrame\obj\Debug\SquareFrame.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\DrawingFigures\SquareFrame\obj\Debug\SquareFrame.pdb

@@ -1,6 +1,0 @@
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\CurrencyConverter\bin\Debug\CurrencyConverter.exe
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\CurrencyConverter\obj\Debug\CurrencyConverter.exe
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
-C:\Users\Radeff\Documents\Visual Studio 2015\Projects\SimpleCalculations\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache

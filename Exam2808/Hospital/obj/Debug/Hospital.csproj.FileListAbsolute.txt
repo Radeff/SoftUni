@@ -1,6 +1,0 @@
-C:\Users\Margarita\Desktop\Github\Exam2808\Hospital\bin\Debug\Hospital.exe.config
-C:\Users\Margarita\Desktop\Github\Exam2808\Hospital\bin\Debug\Hospital.exe
-C:\Users\Margarita\Desktop\Github\Exam2808\Hospital\bin\Debug\Hospital.pdb
-C:\Users\Margarita\Desktop\Github\Exam2808\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
-C:\Users\Margarita\Desktop\Github\Exam2808\Hospital\obj\Debug\Hospital.exe
-C:\Users\Margarita\Desktop\Github\Exam2808\Hospital\obj\Debug\Hospital.pdb

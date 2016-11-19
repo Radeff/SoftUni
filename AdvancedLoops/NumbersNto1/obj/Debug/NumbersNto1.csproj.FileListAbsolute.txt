@@ -1,5 +1,0 @@
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\NumbersNto1\bin\Debug\NumbersNto1.exe.config
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\NumbersNto1\bin\Debug\NumbersNto1.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\NumbersNto1\bin\Debug\NumbersNto1.pdb
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\NumbersNto1\obj\Debug\NumbersNto1.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\NumbersNto1\obj\Debug\NumbersNto1.pdb

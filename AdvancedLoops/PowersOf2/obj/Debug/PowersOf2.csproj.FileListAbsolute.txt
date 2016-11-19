@@ -1,5 +1,0 @@
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\PowersOf2\bin\Debug\PowersOf2.exe.config
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\PowersOf2\bin\Debug\PowersOf2.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\PowersOf2\bin\Debug\PowersOf2.pdb
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\PowersOf2\obj\Debug\PowersOf2.exe
-C:\Users\Radeff\Documents\GitHub\SoftUni\AdvancedLoops\PowersOf2\obj\Debug\PowersOf2.pdb

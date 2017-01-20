@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BooleanVariable", "05.Bo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.StringsAndObjects", "06.StringsAndObjects\06.StringsAndObjects.csproj", "{67A60787-C642-4657-A9C5-F353139D1105}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ExchangeVariableValues", "07.ExchangeVariableValues\07.ExchangeVariableValues.csproj", "{DE2EF5F2-DA9E-4E4B-9E8B-7C744658E799}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{67A60787-C642-4657-A9C5-F353139D1105}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67A60787-C642-4657-A9C5-F353139D1105}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67A60787-C642-4657-A9C5-F353139D1105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE2EF5F2-DA9E-4E4B-9E8B-7C744658E799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2EF5F2-DA9E-4E4B-9E8B-7C744658E799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2EF5F2-DA9E-4E4B-9E8B-7C744658E799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2EF5F2-DA9E-4E4B-9E8B-7C744658E799}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

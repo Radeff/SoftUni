@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.RectangleProperties", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelOrDigit", "VowelOrDigit\VowelOrDigit.csproj", "{9D1D80B9-74D7-499D-8693-2EC62B45B4E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.IntegerToHexAndBinary", "14.IntegerToHexAndBinary\14.IntegerToHexAndBinary.csproj", "{36D6BB47-C83C-4E10-B2F5-6723557A4A3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.FastPrimeCheckerRefactor", "15.FastPrimeCheckerRefactor\15.FastPrimeCheckerRefactor.csproj", "{11377118-4310-49D3-B59B-98A974725B46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{9D1D80B9-74D7-499D-8693-2EC62B45B4E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D1D80B9-74D7-499D-8693-2EC62B45B4E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D1D80B9-74D7-499D-8693-2EC62B45B4E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D6BB47-C83C-4E10-B2F5-6723557A4A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D6BB47-C83C-4E10-B2F5-6723557A4A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D6BB47-C83C-4E10-B2F5-6723557A4A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D6BB47-C83C-4E10-B2F5-6723557A4A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11377118-4310-49D3-B59B-98A974725B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11377118-4310-49D3-B59B-98A974725B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11377118-4310-49D3-B59B-98A974725B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11377118-4310-49D3-B59B-98A974725B46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

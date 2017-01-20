@@ -10,6 +10,8 @@ namespace _04.VariableInHexFormat
     {
         static void Main(string[] args)
         {
+            var num = Console.ReadLine();
+            Console.WriteLine(Convert.ToInt32(num, 16));
         }
     }
 }

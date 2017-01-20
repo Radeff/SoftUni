@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.ComparingFloats", "16.Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.PrintPartOfTheASCIITable", "17.PrintPartOfTheASCIITable\17.PrintPartOfTheASCIITable.csproj", "{215776A6-7B34-487B-9A53-253A6458D1E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.DifferentIntegersSize", "18.DifferentIntegersSize\18.DifferentIntegersSize.csproj", "{A9BB4EB8-76A3-4E2F-9F5F-0542C08C5BBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{215776A6-7B34-487B-9A53-253A6458D1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{215776A6-7B34-487B-9A53-253A6458D1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{215776A6-7B34-487B-9A53-253A6458D1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9BB4EB8-76A3-4E2F-9F5F-0542C08C5BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9BB4EB8-76A3-4E2F-9F5F-0542C08C5BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9BB4EB8-76A3-4E2F-9F5F-0542C08C5BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9BB4EB8-76A3-4E2F-9F5F-0542C08C5BBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

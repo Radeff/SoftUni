@@ -10,18 +10,18 @@ namespace _11.ConvertSpeedUnits
     {
         static void Main(string[] args)
         {
-            double meters = int.Parse(Console.ReadLine());
-            int hours = int.Parse(Console.ReadLine());
-            int minutes = int.Parse(Console.ReadLine());
-            int seconds = int.Parse(Console.ReadLine());
+            float meters = float.Parse(Console.ReadLine());
+            float hours = float.Parse(Console.ReadLine());
+            float minutes = float.Parse(Console.ReadLine());
+            float seconds = float.Parse(Console.ReadLine());
 
-            double totalSeconds = (hours * 3600) + (minutes * 60) + seconds;
-            double metersPerSecond = meters / totalSeconds;
-            Console.WriteLine(Math.Round(metersPerSecond, 6));
-            double kmPerHour = (meters / 1000.00) / (totalSeconds / 3600.00);
-            Console.WriteLine(Math.Round(kmPerHour, 6));
-            double milesPerHour = (meters / 1609.00) / (totalSeconds / 3600.00);
-            Console.WriteLine(Math.Round(milesPerHour, 6));
+            float totalSeconds = (hours * 3600.0f) + (minutes * 60) + seconds;
+            float metersPerSecond = meters / totalSeconds;
+            Console.WriteLine(metersPerSecond);
+            float kmPerHour = (meters / 1000.00f) / (totalSeconds / 3600.00f);
+            Console.WriteLine(kmPerHour);
+            float milesPerHour = (meters / 1609.00f) / (totalSeconds / 3600.00f);
+            Console.WriteLine(milesPerHour);
         }
     }
 }

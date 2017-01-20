@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.PrintPartOfTheASCIITable
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.DifferentIntegersSize", "18.DifferentIntegersSize\18.DifferentIntegersSize.csproj", "{A9BB4EB8-76A3-4E2F-9F5F-0542C08C5BBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.TheaThePhotographer", "19.TheaThePhotographer\19.TheaThePhotographer.csproj", "{7F6B9D86-D72D-481C-B01A-F0CBE23EFB20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{A9BB4EB8-76A3-4E2F-9F5F-0542C08C5BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9BB4EB8-76A3-4E2F-9F5F-0542C08C5BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9BB4EB8-76A3-4E2F-9F5F-0542C08C5BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F6B9D86-D72D-481C-B01A-F0CBE23EFB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6B9D86-D72D-481C-B01A-F0CBE23EFB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6B9D86-D72D-481C-B01A-F0CBE23EFB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6B9D86-D72D-481C-B01A-F0CBE23EFB20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

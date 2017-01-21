@@ -11,18 +11,18 @@ namespace _19.TheaThePhotographer
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
+            long n = long.Parse(Console.ReadLine());
             int FT = int.Parse(Console.ReadLine());
             int FF = int.Parse(Console.ReadLine());
             int UT = int.Parse(Console.ReadLine());
-            BigInteger d = 0;
+            long d = 0;
             var hh = "00";
             var mm = "00";
-            var ss = 0;
+            long ss = 0;
 
-            BigInteger time = n * FT;
-            double goodPics = Math.Ceiling(n * FF / 100.00);
-            time += (int)goodPics * UT;
+            long time = n * FT;
+            long goodPics = (long)Math.Ceiling(n * FF / 100.0);
+            time += goodPics * UT;
             if (time / (3600 * 24) > 0)
             {
                 d = time / (3600 * 24);

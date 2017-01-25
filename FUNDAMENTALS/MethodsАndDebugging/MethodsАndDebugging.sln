@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.PrimeChecker", "06.Prime
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.PrimesInGivenRange", "07.PrimesInGivenRange\07.PrimesInGivenRange.csproj", "{D575FF9A-7589-42A4-8108-C3041014241E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CenterPoint", "08.CenterPoint\08.CenterPoint.csproj", "{32062EDF-BCE4-44D0-B5E2-50117F50273A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D575FF9A-7589-42A4-8108-C3041014241E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D575FF9A-7589-42A4-8108-C3041014241E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D575FF9A-7589-42A4-8108-C3041014241E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32062EDF-BCE4-44D0-B5E2-50117F50273A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32062EDF-BCE4-44D0-B5E2-50117F50273A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32062EDF-BCE4-44D0-B5E2-50117F50273A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32062EDF-BCE4-44D0-B5E2-50117F50273A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

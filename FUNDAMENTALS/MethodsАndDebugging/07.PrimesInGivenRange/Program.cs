@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace _07.PrimesInGivenRange
 {
@@ -10,8 +9,10 @@ namespace _07.PrimesInGivenRange
         {
             var startNum = int.Parse(Console.ReadLine());
             var endNum = int.Parse(Console.ReadLine());
+
             var result = IsPrimeList(startNum, endNum).ToArray();
             var joinedResult = string.Join(", ", result);
+
             Console.WriteLine(joinedResult);
         }
         public static List<int> IsPrimeList(int start, int end)
@@ -21,25 +22,29 @@ namespace _07.PrimesInGivenRange
             {
                 return Primes;
             }
+
             for (int number = start; number <= end; number++)
             {
                 if (number < 2)
                 {
                     continue;
                 }
+
                 bool isPrime = true;
                 for (int i = 2; i <= (int)Math.Sqrt(number); i++)
+                {
+                    if (number % i == 0)
                     {
-                        if (number % i == 0)
-                        {
-                            isPrime = false;
-                        }
+                        isPrime = false;
                     }
+                }
+
                 if (isPrime)
                 {
                     Primes.Add(number);
                 }
             }
+
             return Primes;
         }
     }

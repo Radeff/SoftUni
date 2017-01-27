@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.FactorialTrailingZeroes"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Substring", "15.Substring\15.Substring.csproj", "{5B0B8C30-4FB5-4250-986B-89E7FE538EDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.InstructionSet", "16.InstructionSet\16.InstructionSet.csproj", "{BD133C2D-E63E-45F9-8931-D33B6710D320}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{5B0B8C30-4FB5-4250-986B-89E7FE538EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B0B8C30-4FB5-4250-986B-89E7FE538EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B0B8C30-4FB5-4250-986B-89E7FE538EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD133C2D-E63E-45F9-8931-D33B6710D320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD133C2D-E63E-45F9-8931-D33B6710D320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD133C2D-E63E-45F9-8931-D33B6710D320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD133C2D-E63E-45F9-8931-D33B6710D320}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.GeometryCalculator", "11
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.MasterNumber", "12.MasterNumber\12.MasterNumber.csproj", "{D6E5688F-1103-4E35-BE31-24F7FCC9D724}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Factorial", "13.Factorial\13.Factorial.csproj", "{33CCF344-A425-4A3A-B521-224C487A693E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{D6E5688F-1103-4E35-BE31-24F7FCC9D724}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6E5688F-1103-4E35-BE31-24F7FCC9D724}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6E5688F-1103-4E35-BE31-24F7FCC9D724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33CCF344-A425-4A3A-B521-224C487A693E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CCF344-A425-4A3A-B521-224C487A693E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CCF344-A425-4A3A-B521-224C487A693E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CCF344-A425-4A3A-B521-224C487A693E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

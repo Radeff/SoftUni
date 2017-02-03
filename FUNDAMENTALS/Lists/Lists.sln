@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ArrayManipulator", "03.A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SumReversedNumbers", "04.SumReversedNumbers\04.SumReversedNumbers.csproj", "{C8D0E40E-A92F-41B3-BBCC-5D75D9A4F4D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BombNumbers", "05.BombNumbers\05.BombNumbers.csproj", "{C93B3ADB-D1E8-4CA7-9B33-01881FE5B0A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C8D0E40E-A92F-41B3-BBCC-5D75D9A4F4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8D0E40E-A92F-41B3-BBCC-5D75D9A4F4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8D0E40E-A92F-41B3-BBCC-5D75D9A4F4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93B3ADB-D1E8-4CA7-9B33-01881FE5B0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93B3ADB-D1E8-4CA7-9B33-01881FE5B0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93B3ADB-D1E8-4CA7-9B33-01881FE5B0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93B3ADB-D1E8-4CA7-9B33-01881FE5B0A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Phonebook", "01.Phoneboo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PhoneBookUpgrade", "02.PhoneBookUpgrade\02.PhoneBookUpgrade.csproj", "{8D214EED-D42A-427B-8CC9-AB741DCDAB2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.AMinerTask", "03.AMinerTask\03.AMinerTask.csproj", "{6E28837B-4EBC-41D9-8A6D-8D07F30583DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8D214EED-D42A-427B-8CC9-AB741DCDAB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D214EED-D42A-427B-8CC9-AB741DCDAB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D214EED-D42A-427B-8CC9-AB741DCDAB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E28837B-4EBC-41D9-8A6D-8D07F30583DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E28837B-4EBC-41D9-8A6D-8D07F30583DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E28837B-4EBC-41D9-8A6D-8D07F30583DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E28837B-4EBC-41D9-8A6D-8D07F30583DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

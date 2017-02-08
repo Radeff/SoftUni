@@ -30,17 +30,20 @@ namespace _08.LogsAggregator
                 var dur = int.Parse(inputsplit[2]);
 
                 if (!userLogs.ContainsKey(user))
-                {
-                    var stats = new SortedDictionary<string, int>();
-                    userLogs.Add(user, stats);
+                {                    
+                    userLogs.Add(user, new SortedDictionary<string, int>() { { ip, dur } });
                 }
 
-                if (!userLogs[user].ContainsKey(ip))
+                else if (!userLogs[user].ContainsKey(ip))
                 {
-                    userLogs[user].Add(ip, 0);
+                    userLogs[user].Add(ip, dur);
                 }
 
-                userLogs[user][ip] += dur;
+                else
+                {
+                    userLogs[user][ip] += dur;
+                }
+                
             }
 
             foreach (var user in userLogs)

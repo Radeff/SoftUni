@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.IntersectionOfCircles", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.AverageGrades", "04.AverageGrades\04.AverageGrades.csproj", "{8F9EA1B0-E338-46AF-87DF-35D1739DAE7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BookLibrary", "05.BookLibrary\05.BookLibrary.csproj", "{629F9859-38D7-438C-B3A6-3EFECCC9DF7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8F9EA1B0-E338-46AF-87DF-35D1739DAE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F9EA1B0-E338-46AF-87DF-35D1739DAE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F9EA1B0-E338-46AF-87DF-35D1739DAE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629F9859-38D7-438C-B3A6-3EFECCC9DF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629F9859-38D7-438C-B3A6-3EFECCC9DF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629F9859-38D7-438C-B3A6-3EFECCC9DF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629F9859-38D7-438C-B3A6-3EFECCC9DF7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

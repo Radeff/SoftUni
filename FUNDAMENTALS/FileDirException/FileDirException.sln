@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.File Operations", "01.Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LineNumbers", "02.LineNumbers\02.LineNumbers.csproj", "{E81155C5-207B-47AE-AA12-B3A9FDBCC452}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WordCount", "03.WordCount\03.WordCount.csproj", "{40F513BB-FD26-496F-A731-F68798075AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MergeFiles", "04.MergeFiles\04.MergeFiles.csproj", "{4932682F-513C-4A2D-9A7A-39F513C1709D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{E81155C5-207B-47AE-AA12-B3A9FDBCC452}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E81155C5-207B-47AE-AA12-B3A9FDBCC452}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E81155C5-207B-47AE-AA12-B3A9FDBCC452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F513BB-FD26-496F-A731-F68798075AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F513BB-FD26-496F-A731-F68798075AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F513BB-FD26-496F-A731-F68798075AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F513BB-FD26-496F-A731-F68798075AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4932682F-513C-4A2D-9A7A-39F513C1709D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4932682F-513C-4A2D-9A7A-39F513C1709D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4932682F-513C-4A2D-9A7A-39F513C1709D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4932682F-513C-4A2D-9A7A-39F513C1709D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

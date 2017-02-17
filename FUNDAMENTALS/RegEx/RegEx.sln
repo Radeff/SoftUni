@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ExtractEmails", "01.Extr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ExtractSentencesByKeyword", "02.ExtractSentencesByKeyword\02.ExtractSentencesByKeyword.csproj", "{89F95327-BB50-4213-A7B1-A8B76DD0060B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ValidUsernames", "03.ValidUsernames\03.ValidUsernames.csproj", "{7B7B70AE-8C25-4367-A5A6-4C5AEE5ACB61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{89F95327-BB50-4213-A7B1-A8B76DD0060B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89F95327-BB50-4213-A7B1-A8B76DD0060B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89F95327-BB50-4213-A7B1-A8B76DD0060B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7B70AE-8C25-4367-A5A6-4C5AEE5ACB61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7B70AE-8C25-4367-A5A6-4C5AEE5ACB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7B70AE-8C25-4367-A5A6-4C5AEE5ACB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7B70AE-8C25-4367-A5A6-4C5AEE5ACB61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

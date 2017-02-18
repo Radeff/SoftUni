@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ExtractSentencesByKeywor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ValidUsernames", "03.ValidUsernames\03.ValidUsernames.csproj", "{7B7B70AE-8C25-4367-A5A6-4C5AEE5ACB61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.QueryMess", "04.QueryMess\04.QueryMess.csproj", "{CD7115D5-3D97-4132-88D1-1E330A7B4EDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7B7B70AE-8C25-4367-A5A6-4C5AEE5ACB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B7B70AE-8C25-4367-A5A6-4C5AEE5ACB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B7B70AE-8C25-4367-A5A6-4C5AEE5ACB61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD7115D5-3D97-4132-88D1-1E330A7B4EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7115D5-3D97-4132-88D1-1E330A7B4EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7115D5-3D97-4132-88D1-1E330A7B4EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7115D5-3D97-4132-88D1-1E330A7B4EDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace _03.DecimalToBinaryConverter
 {
-	public class Program
+	public class DecimalToBinaryConverter
 	{
 		public static void Main()
 		{

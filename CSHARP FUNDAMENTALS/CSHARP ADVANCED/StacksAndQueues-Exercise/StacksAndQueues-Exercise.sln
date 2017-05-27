@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.BalancedParenthesis", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.RecursiveFibonacci", "08.RecursiveFibonacci\08.RecursiveFibonacci.csproj", "{3132FEFF-7F5B-47F0-9BC8-B3AC7AFB5832}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.StackFibonacci", "09.StackFibonacci\09.StackFibonacci.csproj", "{76508432-764F-4595-8BB3-7FAF3FCA8B12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{3132FEFF-7F5B-47F0-9BC8-B3AC7AFB5832}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3132FEFF-7F5B-47F0-9BC8-B3AC7AFB5832}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3132FEFF-7F5B-47F0-9BC8-B3AC7AFB5832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76508432-764F-4595-8BB3-7FAF3FCA8B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76508432-764F-4595-8BB3-7FAF3FCA8B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76508432-764F-4595-8BB3-7FAF3FCA8B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76508432-764F-4595-8BB3-7FAF3FCA8B12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

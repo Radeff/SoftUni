@@ -38,7 +38,7 @@ namespace _07.SumBigNumbers
                     mem = 0;
                 }
 
-                resultEnd += sum;
+                resultEnd = string.Concat(resultEnd, sum);
             }
 
             var reversedEnd = new string(resultEnd.ToCharArray()
@@ -84,7 +84,7 @@ namespace _07.SumBigNumbers
 
             if (mem == 1)
             {
-                result = 1 + result;
+                result = string.Concat(1, result);
             }
 
             Console.WriteLine(result.TrimStart('0'));

@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ConvertFromBaseNToBase10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.CountSubstringOccurances", "06.CountSubstringOccurances\06.CountSubstringOccurances.csproj", "{82860CFC-9EA3-485F-92AF-271809441101}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SumBigNumbers", "07.SumBigNumbers\07.SumBigNumbers.csproj", "{403363B6-62CC-47C7-A637-DDE152B045EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{82860CFC-9EA3-485F-92AF-271809441101}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82860CFC-9EA3-485F-92AF-271809441101}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82860CFC-9EA3-485F-92AF-271809441101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{403363B6-62CC-47C7-A637-DDE152B045EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403363B6-62CC-47C7-A637-DDE152B045EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403363B6-62CC-47C7-A637-DDE152B045EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403363B6-62CC-47C7-A637-DDE152B045EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

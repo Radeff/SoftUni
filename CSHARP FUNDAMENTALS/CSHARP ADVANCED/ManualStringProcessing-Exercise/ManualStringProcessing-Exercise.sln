@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.UnicodeCharacters", "10.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Palindromes", "11.Palindromes\11.Palindromes.csproj", "{C82F1B58-7D01-43A0-9AEE-BD9B804F22B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.CharacterMultiplier", "12.CharacterMultiplier\12.CharacterMultiplier.csproj", "{A43073F5-4088-447B-AE72-B8B814C7A5E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{C82F1B58-7D01-43A0-9AEE-BD9B804F22B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C82F1B58-7D01-43A0-9AEE-BD9B804F22B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C82F1B58-7D01-43A0-9AEE-BD9B804F22B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A43073F5-4088-447B-AE72-B8B814C7A5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43073F5-4088-447B-AE72-B8B814C7A5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43073F5-4088-447B-AE72-B8B814C7A5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43073F5-4088-447B-AE72-B8B814C7A5E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

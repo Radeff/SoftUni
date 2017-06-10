@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.CharacterMultiplier", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.MagicExchangeableWords", "13.MagicExchangeableWords\13.MagicExchangeableWords.csproj", "{88A965BB-AAD7-46C7-9337-8B51FC5AE0FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.LettersChangeNumbers", "14.LettersChangeNumbers\14.LettersChangeNumbers.csproj", "{016963B5-4B1E-46D3-9538-8ED04905F372}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{88A965BB-AAD7-46C7-9337-8B51FC5AE0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88A965BB-AAD7-46C7-9337-8B51FC5AE0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88A965BB-AAD7-46C7-9337-8B51FC5AE0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016963B5-4B1E-46D3-9538-8ED04905F372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016963B5-4B1E-46D3-9538-8ED04905F372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016963B5-4B1E-46D3-9538-8ED04905F372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016963B5-4B1E-46D3-9538-8ED04905F372}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

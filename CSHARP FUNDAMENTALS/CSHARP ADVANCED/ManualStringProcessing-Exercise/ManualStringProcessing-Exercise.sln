@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.MagicExchangeableWords",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.LettersChangeNumbers", "14.LettersChangeNumbers\14.LettersChangeNumbers.csproj", "{016963B5-4B1E-46D3-9538-8ED04905F372}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.MelrahShake", "15.MelrahShake\15.MelrahShake.csproj", "{C2828BD6-476B-455A-A2A7-9890CDA9CFC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{016963B5-4B1E-46D3-9538-8ED04905F372}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{016963B5-4B1E-46D3-9538-8ED04905F372}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{016963B5-4B1E-46D3-9538-8ED04905F372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2828BD6-476B-455A-A2A7-9890CDA9CFC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2828BD6-476B-455A-A2A7-9890CDA9CFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2828BD6-476B-455A-A2A7-9890CDA9CFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2828BD6-476B-455A-A2A7-9890CDA9CFC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

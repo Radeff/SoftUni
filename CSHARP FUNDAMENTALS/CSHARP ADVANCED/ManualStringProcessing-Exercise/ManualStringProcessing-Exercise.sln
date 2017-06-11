@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.LettersChangeNumbers", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.MelrahShake", "15.MelrahShake\15.MelrahShake.csproj", "{C2828BD6-476B-455A-A2A7-9890CDA9CFC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.ExtractHyperlinks", "16.ExtractHyperlinks\16.ExtractHyperlinks.csproj", "{97C596AF-8A67-4DCD-BE08-3A7AE72115BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{C2828BD6-476B-455A-A2A7-9890CDA9CFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2828BD6-476B-455A-A2A7-9890CDA9CFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2828BD6-476B-455A-A2A7-9890CDA9CFC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C596AF-8A67-4DCD-BE08-3A7AE72115BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C596AF-8A67-4DCD-BE08-3A7AE72115BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C596AF-8A67-4DCD-BE08-3A7AE72115BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C596AF-8A67-4DCD-BE08-3A7AE72115BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

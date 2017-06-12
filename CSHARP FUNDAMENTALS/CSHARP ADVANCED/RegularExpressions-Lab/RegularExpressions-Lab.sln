@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MatchCount", "01.MatchCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.VowelCount", "02.VowelCount\02.VowelCount.csproj", "{1BFA6F3E-AA6B-4FF6-83F3-12E372B5C17F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.NonDigitCount", "03.NonDigitCount\03.NonDigitCount.csproj", "{6ED0A1B0-5645-463E-9C71-BD947B9CC799}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1BFA6F3E-AA6B-4FF6-83F3-12E372B5C17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BFA6F3E-AA6B-4FF6-83F3-12E372B5C17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BFA6F3E-AA6B-4FF6-83F3-12E372B5C17F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED0A1B0-5645-463E-9C71-BD947B9CC799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED0A1B0-5645-463E-9C71-BD947B9CC799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED0A1B0-5645-463E-9C71-BD947B9CC799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED0A1B0-5645-463E-9C71-BD947B9CC799}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

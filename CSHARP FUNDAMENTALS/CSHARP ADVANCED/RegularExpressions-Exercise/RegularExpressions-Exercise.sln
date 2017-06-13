@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SeriesOfLetters", "03.Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ReplaceATag", "04.ReplaceATag\04.ReplaceATag.csproj", "{899676DA-C8E3-462B-8F45-B20DD7A3218C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ExtractEmails", "05.ExtractEmails\05.ExtractEmails.csproj", "{1A8C6B98-C2F4-43D7-A8F7-B42CCA20CE8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{899676DA-C8E3-462B-8F45-B20DD7A3218C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{899676DA-C8E3-462B-8F45-B20DD7A3218C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{899676DA-C8E3-462B-8F45-B20DD7A3218C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A8C6B98-C2F4-43D7-A8F7-B42CCA20CE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8C6B98-C2F4-43D7-A8F7-B42CCA20CE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8C6B98-C2F4-43D7-A8F7-B42CCA20CE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8C6B98-C2F4-43D7-A8F7-B42CCA20CE8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

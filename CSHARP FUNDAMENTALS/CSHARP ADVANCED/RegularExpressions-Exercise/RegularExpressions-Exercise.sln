@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ExtractEmails", "05.Extr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SentenceExtractor", "06.SentenceExtractor\06.SentenceExtractor.csproj", "{A7EFF13E-EF02-4B53-808E-6635FE41063C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ValidUsernames", "07.ValidUsernames\07.ValidUsernames.csproj", "{B953B24E-5AF6-4BB7-B2DE-89CD23DD0C59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{A7EFF13E-EF02-4B53-808E-6635FE41063C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7EFF13E-EF02-4B53-808E-6635FE41063C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7EFF13E-EF02-4B53-808E-6635FE41063C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B953B24E-5AF6-4BB7-B2DE-89CD23DD0C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B953B24E-5AF6-4BB7-B2DE-89CD23DD0C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B953B24E-5AF6-4BB7-B2DE-89CD23DD0C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B953B24E-5AF6-4BB7-B2DE-89CD23DD0C59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

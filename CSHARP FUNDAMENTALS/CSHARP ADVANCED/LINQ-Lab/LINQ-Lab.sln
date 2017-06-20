@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.UpperStrings", "02.Upper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FirstName", "03.FirstName\03.FirstName.csproj", "{F2A1CF02-29DB-4037-B2B2-5EB88286A218}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.AverageOfDoubles", "04.AverageOfDoubles\04.AverageOfDoubles.csproj", "{D0A89F5F-F141-4CF4-ACF1-BD49ED699C87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F2A1CF02-29DB-4037-B2B2-5EB88286A218}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2A1CF02-29DB-4037-B2B2-5EB88286A218}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2A1CF02-29DB-4037-B2B2-5EB88286A218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A89F5F-F141-4CF4-ACF1-BD49ED699C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A89F5F-F141-4CF4-ACF1-BD49ED699C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A89F5F-F141-4CF4-ACF1-BD49ED699C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A89F5F-F141-4CF4-ACF1-BD49ED699C87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

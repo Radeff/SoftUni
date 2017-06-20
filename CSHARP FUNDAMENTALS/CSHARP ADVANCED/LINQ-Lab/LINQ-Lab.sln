@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.AverageOfDoubles", "04.A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.MinEvenNumber", "05.MinEvenNumber\05.MinEvenNumber.csproj", "{B9FC0D17-D617-425A-B950-75E459B73FB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.FindAndSumIntegers", "06.FindAndSumIntegers\06.FindAndSumIntegers.csproj", "{270C1283-A526-4400-BEC2-819E3D605B1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B9FC0D17-D617-425A-B950-75E459B73FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9FC0D17-D617-425A-B950-75E459B73FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9FC0D17-D617-425A-B950-75E459B73FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270C1283-A526-4400-BEC2-819E3D605B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270C1283-A526-4400-BEC2-819E3D605B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270C1283-A526-4400-BEC2-819E3D605B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270C1283-A526-4400-BEC2-819E3D605B1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

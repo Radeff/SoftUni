@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.FilterStudentsByPhone", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ExcellentStudents", "07.ExcellentStudents\07.ExcellentStudents.csproj", "{28DC4CC1-2770-4F63-A7D1-97D8DF52407F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.WeakStudents", "08.WeakStudents\08.WeakStudents.csproj", "{294C93DD-E609-4881-BFB7-70FFE0E776F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{28DC4CC1-2770-4F63-A7D1-97D8DF52407F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28DC4CC1-2770-4F63-A7D1-97D8DF52407F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28DC4CC1-2770-4F63-A7D1-97D8DF52407F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294C93DD-E609-4881-BFB7-70FFE0E776F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294C93DD-E609-4881-BFB7-70FFE0E776F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294C93DD-E609-4881-BFB7-70FFE0E776F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294C93DD-E609-4881-BFB7-70FFE0E776F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

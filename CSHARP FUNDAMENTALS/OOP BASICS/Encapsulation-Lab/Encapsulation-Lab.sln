@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SalaryIncrease", "02.Sal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ValidationData", "03.ValidationData\03.ValidationData.csproj", "{BD00E3AF-C5C8-44C0-9ECF-475979DCA888}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FirstAndReserveTeam", "04.FirstАndReserveTeam\04.FirstAndReserveTeam.csproj", "{3097E095-C274-4C31-8DB2-0966450B1186}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BD00E3AF-C5C8-44C0-9ECF-475979DCA888}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD00E3AF-C5C8-44C0-9ECF-475979DCA888}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD00E3AF-C5C8-44C0-9ECF-475979DCA888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3097E095-C274-4C31-8DB2-0966450B1186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3097E095-C274-4C31-8DB2-0966450B1186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3097E095-C274-4C31-8DB2-0966450B1186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3097E095-C274-4C31-8DB2-0966450B1186}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

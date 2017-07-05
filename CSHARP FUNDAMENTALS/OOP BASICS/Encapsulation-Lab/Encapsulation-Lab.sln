@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SortPersonsByNameAndAge", "01.SortPersonsByNameAndAge\01.SortPersonsByNameAndAge.csproj", "{8AE8009B-6B01-41FD-BC0F-DC301469CFF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SalaryIncrease", "02.SalaryIncrease\02.SalaryIncrease.csproj", "{99053BCE-D17E-4253-91E2-8AEC6B5B3831}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8AE8009B-6B01-41FD-BC0F-DC301469CFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AE8009B-6B01-41FD-BC0F-DC301469CFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AE8009B-6B01-41FD-BC0F-DC301469CFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99053BCE-D17E-4253-91E2-8AEC6B5B3831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99053BCE-D17E-4253-91E2-8AEC6B5B3831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99053BCE-D17E-4253-91E2-8AEC6B5B3831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99053BCE-D17E-4253-91E2-8AEC6B5B3831}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

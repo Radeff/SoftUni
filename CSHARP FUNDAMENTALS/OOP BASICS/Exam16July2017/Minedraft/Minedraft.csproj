@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0A73808B-D10F-4DC6-B8CC-43D1DA9812A5}</ProjectGuid>
+    <ProjectGuid>{695A5DF1-B0AC-450C-9AD2-6BDA45067C67}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Reflection</RootNamespace>
-    <AssemblyName>Reflection</AssemblyName>
+    <RootNamespace>Minedraft</RootNamespace>
+    <AssemblyName>Minedraft</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -34,7 +34,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -43,7 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BlackBoxInt.cs" />
+    <Compile Include="DraftManager.cs" />
+    <Compile Include="Factories\HarvesterFactory.cs" />
+    <Compile Include="Factories\ProviderFactory.cs" />
+    <Compile Include="Models\Harvesters\HammerHarvester.cs" />
+    <Compile Include="Models\Harvesters\Harvester.cs" />
+    <Compile Include="Models\Harvesters\SonicHarvester.cs" />
+    <Compile Include="Models\Providers\PressureProvider.cs" />
+    <Compile Include="Models\Providers\Provider.cs" />
+    <Compile Include="Models\Providers\SolarProvider.cs" />
+    <Compile Include="Models\Worker.cs" />
     <Compile Include="StartUp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

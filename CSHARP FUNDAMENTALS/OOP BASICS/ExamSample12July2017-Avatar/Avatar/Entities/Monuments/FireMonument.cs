@@ -1,6 +1,7 @@
 ﻿public class FireMonument : Monument
 {
-    public FireMonument(string name, int fireAffinity) : base(name)
+    public FireMonument(string name, int fireAffinity)
+        : base(name)
     {
         this.FireAffinity = fireAffinity;
     }

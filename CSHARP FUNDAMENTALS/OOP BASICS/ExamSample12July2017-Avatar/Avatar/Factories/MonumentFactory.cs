@@ -13,7 +13,7 @@
             case Constants.Earth:
                 return new EarthMonument(name, affinity);
 
-            case Constants.Water:
+            //No invalid input will be given, so default is safe
             default:
                 return new WaterMonument(name, affinity);
         }

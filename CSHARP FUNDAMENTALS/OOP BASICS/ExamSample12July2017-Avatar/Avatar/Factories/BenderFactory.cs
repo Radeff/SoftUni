@@ -13,7 +13,7 @@
             case Constants.Earth:
                 return new EarthBender(name, power, special);
 
-            case Constants.Water:
+            //No invalid input will be given, so default is safe
             default:
                 return new WaterBender(name, power, special);
         }

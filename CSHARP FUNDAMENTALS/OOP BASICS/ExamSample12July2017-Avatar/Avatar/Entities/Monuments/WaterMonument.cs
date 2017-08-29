@@ -1,6 +1,7 @@
 ﻿public class WaterMonument : Monument
 {
-    public WaterMonument(string name, int waterAffinity) : base(name)
+    public WaterMonument(string name, int waterAffinity)
+        : base(name)
     {
         this.WaterAffinity = waterAffinity;
     }

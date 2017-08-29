@@ -1,6 +1,7 @@
 ﻿public class AirBender : Bender
 {
-    public AirBender(string name, int power, double aerialIntegrity) : base(name, power)
+    public AirBender(string name, int power, double aerialIntegrity)
+        : base(name, power)
     {
         this.AerialIntegrity = aerialIntegrity;
         this.TotalPower = power * this.AerialIntegrity;

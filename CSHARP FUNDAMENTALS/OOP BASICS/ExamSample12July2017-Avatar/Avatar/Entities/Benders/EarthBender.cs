@@ -1,6 +1,7 @@
 ﻿public class EarthBender : Bender
 {
-    public EarthBender(string name, int power, double groundSaturation) : base(name, power)
+    public EarthBender(string name, int power, double groundSaturation)
+        : base(name, power)
     {
         this.GroundSaturation = groundSaturation;
         this.TotalPower = power * this.GroundSaturation;

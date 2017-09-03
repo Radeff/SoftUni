@@ -102,7 +102,7 @@ public class NationsBuilder
         return this.warsRecord.ToString().Trim();
     }
 
-    public void OutputBuilder(StringBuilder sb, List<Entity> filteredNation, Type type)
+    private void OutputBuilder(StringBuilder sb, List<Entity> filteredNation, Type type)
     {
         if (filteredNation.Any(e => e.GetType().BaseType == type))
         {

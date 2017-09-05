@@ -190,7 +190,7 @@ public class RaceTower
             position++;
         }
 
-        foreach (var driver in dnf)
+        foreach (var driver in dnf.Reverse())
         {
             sb.AppendLine($"{position} {driver.Key} {driver.Value}");
             position++;

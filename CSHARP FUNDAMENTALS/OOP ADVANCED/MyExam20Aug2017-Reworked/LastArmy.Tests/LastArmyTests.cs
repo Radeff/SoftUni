@@ -52,15 +52,6 @@ public class TestClass
     }
 
     [Test]
-    public void MissionSuccessful()
-    {
-        var mission = new Easy(10.0);
-        var resultString = this.mc.PerformMission(mission).Trim();
-        var expectedString = string.Format(OutputMessages.MissionSuccessful, mission.Name);
-        Assert.AreEqual(expectedString, resultString);
-    }
-
-    [Test]
     public void MissionOnHold()
     {
         var mission = new Hard(200.0);
@@ -82,5 +73,14 @@ public class TestClass
         var resultString = this.mc.PerformMission(hard).Trim();
         var expectedString = "Mission declined - Suppression of civil rebellion\r\nMission on hold - Capturing dangerous criminals\r\nMission on hold - Disposal of terrorists\r\nMission on hold - Disposal of terrorists";
         Assert.AreEqual(expectedString, resultString);
+    }
+
+    [Test]
+    public void MissionSuccessful()
+    {
+        var mission = new Easy(10.0);
+        var result = this.mc.PerformMission(mission).Trim();
+        var expectedString = string.Format("Mission completed - {0}", mission.Name);
+        Assert.AreEqual(expectedString, result);
     }
 }
